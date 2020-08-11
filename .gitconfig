@@ -63,9 +63,6 @@
 	# List contributors with number of commits.
 	contributors = shortlog --summary --numbered
 
-	# Show the user email for the current repository.
-	whoami = config user.email
-
 [apply]
 
 	# Detect whitespace errors when applying a patch.
